@@ -67,10 +67,6 @@ The following screenshot highlights the main visuals and features of the dashboa
 
 [PaisaBazaar](https://www.paisabazaar.com/) is a leading financial marketplace in India, offering a wide range of credit products and analytics for informed financial decisions.
 
-## Contact
-
-For questions or feedback about the dashboard, please reach out to the PaisaBazaar analytics team.
-
 ---
 
 *This README provides a comprehensive overview of the Power BI dashboard, its features, and usage instructions. For any issues or requests, please use the repository's issue tracker.*
