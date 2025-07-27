@@ -9,7 +9,7 @@ Access the interactive dashboard here:
 
 ## Dashboard Overview
 
-![image1](image1)
+![image1](image1.jpg)
 
 ### Key Features
 
@@ -61,7 +61,7 @@ Access the interactive dashboard here:
 
 The following screenshot highlights the main visuals and features of the dashboard:
 
-![image1](image1)
+![image1](image1.jpg)
 
 ## About PaisaBazaar
 
